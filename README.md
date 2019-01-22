@@ -13,9 +13,9 @@ In Astro Hop, the main goal is to make the surface of the planet all white by ru
 - The level system is implemented using prefabs.
 
 ## Links
-Play Store Link:
+Play Store Link: Due to technical difficulties with my computer, the game is not currently on any stores.
 
-Trailer for the game:
+Trailer for the game: https://youtu.be/6fZRAxQx284
 
 ## Gallery
 <p align="middle">
